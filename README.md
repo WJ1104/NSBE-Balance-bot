@@ -1,6 +1,6 @@
 # Self-Balancing Robot: example software repo
 
-This is an example repo for the NSBE design team software people. Copy it, rename it, and change stuff to match your own robot. Your team probably picked different parts than I did here (I used an MPU6050 and a basic dual H-bridge motor driver on an Arduino Nano), so don't treat the pins or the gains as correct for your build. They're just there so you can see how it all fits together.
+This is an example repo for the NSBE design team software people. Copy it, rename it, and change stuff to match your own robot. Your team probably picked different parts than I did here (I used an MPU6050 and a basic dual H-bridge motor driver on an Arduino Nano), so don't treat it  as correct for your build. They're just there so you can see how it all fits together.
 
 If you've never done this before, that's fine. Go in order. Each step has something you can check before moving on.
 
