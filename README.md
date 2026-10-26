@@ -2,7 +2,6 @@
 
 An example repo for NSBE Design Team software members. **Copy this structure, then swap in your own team's parts.** Every team's hardware is different, so the pins, IMU, and motor driver here are placeholders (MPU6050 IMU + a dual H-bridge motor driver on an Arduino-style board).
 
-> New to coding? You're in the right place. Work through the steps below in order. Each step is a small win you can test on its own.
 
 ## What's in this repo
 
